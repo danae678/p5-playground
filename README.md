@@ -9,3 +9,5 @@ https://danae678.github.io/p5-playground/
 ### Ripples
 - Click/tap to create a ripple effect
 
+### Angles
+- Move mouse to change angle 
